@@ -1,0 +1,44 @@
+function muestraInformaciónContacto() {
+    var auntContactInfo = ["Paula", "Smith", "Calle Principal 1234", "St. Louis", "MO", 12345];
+    console.log(auntContactInfo);
+}
+ //la función muestra la informacion en contacto en: Paula, Smith, Calle principal 1234, ST. Louis, MO, 12345
+
+ /*DIAGRAMA EN T
+ 
+ variable = auntcontact 
+ vaules = Paula, Smith, calle principal 1234, ST. louis, MO, 12345
+
+ */
+
+
+ function muestraListaDeCompras() {
+    var produce = ["manzanas", "naranjas"];
+    var frozen = ["brócoli", "helado"];
+    frozen.push("croqueta de papa");
+    console.log(frozen);
+}
+// la función imrpime que frozen es igual a brócoli, helado, manzanas, naranjas, croqueta de papa 
+
+/* DIAGRAMA EN T
+
+variable = produce , frozen
+valeus = manzanas, naranjas, brócoli, helado, croqueta de papa
+
+*/
+
+
+
+var movieLibrary = ["Bambi", "E.T.", "Toy Story"];
+movieLibrary.push("Zoro");
+movieLibrary[1] = "Beetlejuice";
+console.log(movieLibrary);
+
+// la funcion imprime que movielibrary es bambi, E.T, toy story, zoro, beetlejuice 
+
+/*DIAGRAMA EN T
+
+variable = movielibrary
+valeus= Bambi, E.T, Toy Story, Zoro, Beetlejuie
+
+
