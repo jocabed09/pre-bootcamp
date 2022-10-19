@@ -1,0 +1,13 @@
+h1 {
+    color: rebeccapurple;
+}
+.green {
+    color: mediumseagreen;
+}
+#red {
+    color: tomato;
+}
+.quote p {
+    color: darkslategrey;
+    font-style: italic;
+}
