@@ -1,0 +1,34 @@
+a {
+    width: 25px;
+  }
+  div {
+    width: 25%;
+    height: 25px;
+  }
+  img {
+    width: 250px;
+  }
+  h3 {
+    font-size: 10pt;
+  }
+  p {
+    font-size: 14px;
+  }
+  a {
+    font-size: 1.2em;
+  }
+  span {
+    font-size: 80%;
+  }
+  p {
+    background: #ffffff url("right2.png") no-repeat fixed center;
+  }
+  p {
+    background-color: blue;
+  }
+  div {
+    background-image: url("right2.png");
+    background-position: center;
+    background-size: auto;
+    background-repeat: no-repeat;
+  }
